@@ -14,9 +14,6 @@ Araştırmalar, müziğin anksiyete, depresyon ve stres yönetimi üzerinde olum
 ## 🎬Filmler: 
 Psikoloji literatüründe, filmlerin duygusal katarsis sağlayarak bireylerin kendi duygularıyla yüzleşmelerine yardımcı olabileceği belirtilir. "Psychology of Aesthetics, Creativity, and the Arts" dergisinde yayımlanan bir makale, duygusal filmlerin izleyicilerin empati ve anlayış kapasitelerini artırabileceğini öne sürer.
 
-## 📚Kitaplar:
-Kitaplar, özellikle kendini geliştirme ve kişisel sağlık üzerine olanlar, bireylerin zihinsel ve duygusal iyi oluşunu desteklemede önemli bir rol oynar. Edebiyatın gücü, insanların farklı yaşam deneyimleri hakkında bilgi edinmelerini, empati kurma yeteneklerini geliştirmelerini ve kendilerini daha iyi ifade etmelerini sağlar. Örneğin, "The Mindful Way Through Depression" adlı kitap, okuyuculara depresyonla başa çıkmak için mindfulness temelli teknikler sunar ve bu süreçte kendi duygusal durumlarını daha iyi anlamalarına yardımcı olur.
-Ayrıca, romanlar ve hikayeler, okuyucuları farklı dünyalara taşıyarak geçici bir kaçış imkanı sunar ve stres atmanın yanı sıra, duygusal bakış açılarını genişletmelerine yardımcı olur. Kitap okumak, bireyin zihinsel sağlığını korumasına ve geliştirmesine yardımcı olan meditatif bir aktivite olarak da görülebilir.
 
 ## 💕Duygu Analizi: 
 Uygulamamız, kullanıcılardan gelen geri bildirimleri ve yüz ifadelerini analiz ederek duygusal durumları anlar. Kullanıcılar, uygulamaya belirli sorulara verdikleri cevaplarla duygu durumlarını ifade eder ve bu bilgiler makine öğrenimi modelimiz tarafından işlenir.
